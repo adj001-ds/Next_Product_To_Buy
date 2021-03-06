@@ -7,6 +7,8 @@ Offers to buy a book were sent out in one category to 10,000 randomly selected c
 
 The study uses logistic regression with buyer as the response variable and customer characteristics and book categories as the explanatory variables. The model is modified using interactions. We want to predict what each customer would have done if we had sent him/her any one of the three offers (from 3 book categories: Art, DIY, Cook). 
 
+**Actual STudy Details:**_
+
 Dataset used to investigate opportunities to decrease customer churn at S-mobile. The sample consists of three parts:
 
 A training sample with 27,300 observations and a 50% churn rate ("training == 1")
