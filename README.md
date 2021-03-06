@@ -16,8 +16,11 @@ A test sample with 11,700 observations and a 50% churn rate ("training == 0")
 A representative sample with 30,000 observations and a churn rate of 2%, i.e., the actual monthly churn rate for S-mobile ("is.na(training)" or "representative == 1")
 
 Variables
+
 customer: Customer ID
+
 churn: Did consumer churn in the last 30 days? (yes or no)
+
 changer: % change in revenue over the most recent 4 month period
 changem: % change in minutes of use over the most recent 4 month period
 revenue: Mean monthly revenue in SGD
