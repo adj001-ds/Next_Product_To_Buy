@@ -17,10 +17,8 @@ A representative sample with 30,000 observations and a churn rate of 2%, i.e., t
 
 Variables
 
-customer: Customer ID
-
+<br>customer: Customer ID
 churn: Did consumer churn in the last 30 days? (yes or no)
-
 changer: % change in revenue over the most recent 4 month period
 changem: % change in minutes of use over the most recent 4 month period
 revenue: Mean monthly revenue in SGD
